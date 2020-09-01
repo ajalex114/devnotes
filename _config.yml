@@ -18,7 +18,7 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://ajalex114.github.io/devnotes'
+url: 'https://ajalex114.github.io/devnotes/'
 
 author: Alen Alex                  # change to your full name
 
@@ -118,7 +118,7 @@ defaults:
       breadcrumb:
         -
           label: Posts
-          url: /
+          url: /devnotes/
   -
     scope:
       path: _drafts
@@ -133,10 +133,10 @@ defaults:
       breadcrumb:
         -
           label: Home
-          url: /
+          url: /devnotes/
         -
           label: Tags
-          url: /tabs/tags/
+          url: /devnotes//tabs/tags/
   -
     scope:
       path: categories
@@ -146,10 +146,10 @@ defaults:
       breadcrumb:
         -
           label: Home
-          url: /
+          url: /devnotes/
         -
           label: Categories
-          url: /tabs/categories/
+          url: /devnotes//tabs/categories/
   -
     scope:
       path: tabs
@@ -159,11 +159,11 @@ defaults:
       breadcrumb:
         -
           label: Home
-          url: /
+          url: /devnotes/
 
 
 sass:
-  sass_dir: /assets/css
+  sass_dir: /devnotes/assets/css
   style: compressed
 
 compress_html:
