@@ -1,10 +1,8 @@
 ---
 title:  "Keyboard Shortcut - Select System Tray Icon" 
-categories: accessibility 
+categories: [accessibility]
 description: Keyboard shortcut to select system tray icon
-tag: 
-  - windows 
-  - keyboard-shortcuts
+tags: [windows, keyboard-shortcuts]
 --- 
 
 We use the System Tray for a multitude of things.  

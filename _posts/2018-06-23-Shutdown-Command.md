@@ -1,10 +1,8 @@
 ---
 title:  "Shutdown Command in Windows"
-categories: commands
+categories: [commands]
 description: Shutdown command in Windows Cmd/Run/Powershell
-tag: 
-    - cmd
-    - windows
+tags: [cmd, windows]
 ---
 
 We always use the _Start Menu_ for shutting down. What if we could run a command to shutdown the computer.  

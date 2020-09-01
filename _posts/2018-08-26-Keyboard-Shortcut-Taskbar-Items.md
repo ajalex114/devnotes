@@ -1,10 +1,8 @@
 ---
 title:  "Keyboard Shortcut - Open items in the Taskbar" 
-categories: accessibility 
+categories: [accessibility]
 description: Keyboard shortcut to open items in the taskbar
-tag: 
-  - windows 
-  - keyboard-shortcuts
+tags: [windows, keyboard-shortcuts]
 --- 
 
 Did you know that you could use the keyboard to open items in your taskbar? It's pretty simple.

@@ -1,10 +1,8 @@
 ---
 title:  "Tip : Visual Studio Code : Block Selection" 
-categories: dev 
+categories: [dev]
 description: Visual Studio Code Block Selection
-tag: 
-  - vscode
-  - how-to
+tags: [vscode, how-to]
 --- 
 
 Did you know that we could select a block, using the keyboard in visual studio code!

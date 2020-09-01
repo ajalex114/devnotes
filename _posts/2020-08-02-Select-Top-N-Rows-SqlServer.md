@@ -1,9 +1,8 @@
 ---
 title:  "Select Top N Rows from a table in Sql Server" 
-categories: dev 
+categories: [dev]
 description: Select Top N Rows from a table in Sql Server
-tag:  
-  - sql
+tags: [sql]
 --- 
 
 Selecting Top 10 rows is easy. Just do  

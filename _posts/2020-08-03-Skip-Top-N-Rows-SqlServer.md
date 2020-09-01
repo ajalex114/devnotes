@@ -1,9 +1,8 @@
 ---
 title:  "Skip Top N Rows from a table in Sql Server" 
-categories: dev 
+categories: [dev]
 description: Skip Top N Rows from a table in Sql Server
-tag:  
-  - sql
+tags: [sql]
 --- 
 
 What if you want to skip Top `N` rows while doing a `select` statement in `sql server`?

@@ -1,11 +1,7 @@
 ---
 title: How to – Add/Remove references in Visual Studio Code
-categories: 
-  - dev
-tags:
-  - csharp
-  - vscode
-  - how-to
+categories: [dev]
+tags: [csharp, vscode, how-to]
 ---
 
 Adding references and nuget packages to projects is a common thing in development. I have already written a blog on [how to add/reomve nuget packages in vs code]({{ "" | relative_url }}{% post_url 2017-09-30-How-to-AddRemove-Nuget-Packages-in-VSCode %}).

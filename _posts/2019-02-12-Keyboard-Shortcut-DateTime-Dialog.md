@@ -1,10 +1,8 @@
 ---
 title:  "Keyboard Shortcut - Select System Date/Time Dialog" 
-categories: accessibility 
+categories: [accessibility]
 description: Keyboard shortcut to select system date time dialog
-tag: 
-  - windows 
-  - keyboard-shortcuts
+tags: [windows, keyboard-shortcuts]
 --- 
 
 <p align="left">

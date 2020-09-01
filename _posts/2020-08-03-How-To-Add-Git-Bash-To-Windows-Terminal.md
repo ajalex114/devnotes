@@ -1,9 +1,8 @@
 ---
 title:  "How To Add Git Bash to Windows Terminal" 
-categories: tip
+categories: [tips]
 description: Add Git Bash to Windows Terminal
-tag:  
-  - tip
+tags: [tips]
 --- 
 
 [Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/) is a new product offering by Microsoft, using which we can access various command line offerings both by Microsoft and other external providers.

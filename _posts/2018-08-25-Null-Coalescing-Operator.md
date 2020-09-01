@@ -1,9 +1,8 @@
 ---
 title:  "C# Basics - Null Coalescing (??) Operator" 
-categories: dev 
+categories: [dev]
 description: Null Coalescing Operator ?? in C#
-tag: 
-  - csharp
+tags: [csharp]
 --- 
 
 The `??` operator is called `null-coalescing operator`.  

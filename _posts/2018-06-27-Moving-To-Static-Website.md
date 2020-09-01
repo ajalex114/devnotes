@@ -1,11 +1,8 @@
 ---
 title:  "Moving from Wordpress to GitHub Pages"
-categories: blogging
+categories: [blogging]
 description: Moving from Wordpress to GitHub Pages
-tag: 
-  - jekyll
-  - github-pages
-  - static-site
+tags: [jekyll, github-pages, static-site]
 ---
 
 I have been hosting my blog using wordpress for the past 1 year. Wordpress, although is easy to use, is quite heavy and was too much work for me.
