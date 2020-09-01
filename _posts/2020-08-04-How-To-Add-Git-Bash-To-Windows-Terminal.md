@@ -20,7 +20,7 @@ Here's how:
 ** Alternatively you can press `Ctrl + ,` to open settings.
 
 <p align="left">
-<img src="{{ "/assets/img/WindowsTerminal1.jpg"  | absolute_url }}" alt="Windows Terminal" align="middle"/>
+<img src="{{ "/assets/img/WindowsTerminal1.jpg"  | relative_url }}" alt="Windows Terminal" align="middle"/>
 </p>  
 
 As of writing of this blog, Windows Terminal settings will open a `json` file. I recommend using `Visual Studio Code` IDE to open `json` files (its your wish though 🙂).
@@ -42,7 +42,7 @@ You can generate guid [here](https://www.guidgen.com/).
 Now, you will be able to use Git Bash from Windows Terminal.
 
 <p align="left">
-<img src="{{ "/assets/img/WindowsTerminal2.jpg"  | absolute_url }}" alt="Git Bash in Windows Terminal" align="middle"/>
+<img src="{{ "/assets/img/WindowsTerminal2.jpg"  | relative_url }}" alt="Git Bash in Windows Terminal" align="middle"/>
 </p>
 
 

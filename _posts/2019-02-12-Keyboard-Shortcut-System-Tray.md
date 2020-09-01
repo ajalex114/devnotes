@@ -16,7 +16,7 @@ Did you know that we could use the keyboard to select the System Tray (_not the 
 You could use `Windows Logo Key + B` to select the System Tray.  
 
 <p align="left">
-<img src="{{ "/assets/img/system-tray-icon.png"  | absolute_url }}" alt="System Tray Icon" align="middle"/>
+<img src="{{ "/assets/img/system-tray-icon.png"  | relative_url }}" alt="System Tray Icon" align="middle"/>
 </p>  
   
 Once you press `Windows Logo Key + B`, the System Tray arrow icon is selected.  

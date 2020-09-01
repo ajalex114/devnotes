@@ -6,7 +6,7 @@ tags: [windows, keyboard-shortcuts]
 --- 
 
 <p align="left">
-<img src="{{ "/assets/img/date-time-dialog.jpg"  | absolute_url }}" alt="System Tray Icon" align="middle"/>
+<img src="{{ "/assets/img/date-time-dialog.jpg"  | relative_url }}" alt="System Tray Icon" align="middle"/>
 </p>  
   
 Did you know that you could bring up the Date/Time dialog in System Tray using a keyboard shortcut (_and not the mouse_).  
