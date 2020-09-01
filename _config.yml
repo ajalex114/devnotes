@@ -18,7 +18,7 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://ajalex114.github.io/devnotes/'
+url: 'https://ajalex114.github.io/devnotes'
 
 author: Alen Alex                  # change to your full name
 
@@ -118,7 +118,7 @@ defaults:
       breadcrumb:
         -
           label: Posts
-          url: /devnotes/
+          url: /
   -
     scope:
       path: _drafts
@@ -133,10 +133,10 @@ defaults:
       breadcrumb:
         -
           label: Home
-          url: /devnotes/
+          url: /
         -
           label: Tags
-          url: /devnotes//tabs/tags/
+          url: /tabs/tags/
   -
     scope:
       path: categories
@@ -146,10 +146,10 @@ defaults:
       breadcrumb:
         -
           label: Home
-          url: /devnotes/
+          url: /
         -
           label: Categories
-          url: /devnotes//tabs/categories/
+          url: /tabs/categories/
   -
     scope:
       path: tabs
@@ -159,11 +159,11 @@ defaults:
       breadcrumb:
         -
           label: Home
-          url: /devnotes/
+          url: /
 
 
 sass:
-  sass_dir: /devnotes/assets/css
+  sass_dir: /assets/css
   style: compressed
 
 compress_html:
@@ -188,15 +188,15 @@ exclude:
 
 sitemap_exclude:  # Sitemap will exclude the following items.
   fuzzy:
-    - /devnotes/assets/
+    - /assets/
   accurate:
-    - /devnotes/norobots/
-    - /devnotes/tabs/
-    - /devnotes/categories/
-    - /devnotes/tags/
-    - /devnotes/posts/
-    - /devnotes/404.html
-    - /devnotes/feed.xml
-    - /devnotes/sitemap.xml
-    - /devnotes/robots.txt
-    - /devnotes/redirects.json
+    - /norobots/
+    - /tabs/
+    - /categories/
+    - /tags/
+    - /posts/
+    - 404.html
+    - feed.xml
+    - sitemap.xml
+    - robots.txt
+    - redirects.json
