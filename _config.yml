@@ -8,14 +8,14 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: Alen's Devnotes'                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: Developer notes by Alen Alex.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Software developer at Microsoft,
+  with a bit of music and photography in the blood.
+  The content of the blog reflects my personal opinions and not that of my employer.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://ajalex114.github.io/devnotes'
@@ -23,6 +23,7 @@ url: 'https://ajalex114.github.io/devnotes'
 author: Alen Alex                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
+repository: "ajalex114/devnotes" 
 
 github:
   username: ajalex114             # change to your github username
