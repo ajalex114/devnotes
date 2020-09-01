@@ -11,7 +11,7 @@ title: About
 I am **Alen Joseph Alex**. (I like to be called as _Alen_).  
 
 <p align="left">
-<img src="{{ "/assets/images/ajalex_avatar.jpg"  | absolute_url }}" alt="Alen Alex" align="middle"/>
+<img src="{{ "/assets/img/ajalex_avatar.jpg"  | absolute_url }}" alt="Alen Alex" align="middle"/>
 </p>
 
 
