@@ -12,14 +12,13 @@
 
 set -eu
 
-WORK_DIR=$(dirname $(dirname $(realpath "$0")))
+WORK_DIR="$(dirname "$(dirname "$(realpath "$0")")")"
 
 CONTAINER=.container
 SYNC_TOOL=_scripts/sh/sync_monitor.sh
 
-cmd="bundle exec jekyll s"
+cmd="bundle exec jekyll s -l -o"
 realtime=false
-
 
 _help() {
   echo "Usage:"
@@ -35,31 +34,28 @@ _help() {
   echo "     -r, --realtime          Make the modified content updated in real time"
 }
 
-
 _cleanup() {
   if [[ -d _site || -d .jekyll-cache ]]; then
     jekyll clean
   fi
 
-  rm -rf ${WORK_DIR}/${CONTAINER}
+  rm -rf "${WORK_DIR}/${CONTAINER}"
   ps aux | grep fswatch | awk '{print $2}' | xargs kill -9 > /dev/null 2>&1
 }
 
-
 _init() {
 
-  if [[ -d ${WORK_DIR}/${CONTAINER} ]]; then
-    rm -rf ${WORK_DIR}/${CONTAINER}
+  if [[ -d "${WORK_DIR}/${CONTAINER}" ]]; then
+    rm -rf "${WORK_DIR}/${CONTAINER}"
   fi
 
-  temp=$(mktemp -d)
-  cp -r ${WORK_DIR}/* $temp
-  cp -r ${WORK_DIR}/.git $temp
-  mv $temp ${WORK_DIR}/${CONTAINER}
+  temp="$(mktemp -d)"
+  cp -r "$WORK_DIR"/* "$temp"
+  cp -r "${WORK_DIR}/.git" "$temp"
+  mv "$temp" "${WORK_DIR}/${CONTAINER}"
 
   trap _cleanup INT
 }
-
 
 _check_unset() {
   if [[ -z ${1:+unset} ]]; then
@@ -68,52 +64,47 @@ _check_unset() {
   fi
 }
 
-
 _check_command() {
-  if [[ -z $(command -v $1) ]]; then
+  if [[ -z $(command -v "$1") ]]; then
     echo "Error: command '$1' not found !"
     echo "Hint: Get '$1' on <$2>"
     exit 1
   fi
 }
 
-
 main() {
   _init
 
-  cd ${WORK_DIR}/${CONTAINER}
+  cd "${WORK_DIR}/${CONTAINER}"
   bash _scripts/sh/create_pages.sh
   bash _scripts/sh/dump_lastmod.sh
 
-  if [[ $realtime = true ]]; then
-    fswatch -0 -e "\\$CONTAINER" -e "\.git" ${WORK_DIR} | xargs -0 -I {} bash ./${SYNC_TOOL} {} $WORK_DIR . &
+  if $realtime; then
+    fswatch -0 -e "/\..*" "$WORK_DIR" | xargs -0 -I {} bash "./${SYNC_TOOL}" {} "$WORK_DIR" . &
   fi
 
   echo "\$ $cmd"
-  eval $cmd
+  eval "$cmd"
 }
 
-
-while (( $# ))
-do
+while (($#)); do
   opt="$1"
   case $opt in
-    -H|--host)
-      _check_unset $2
+    -H | --host)
+      _check_unset "$2"
       cmd+=" -H $2"
       shift # past argument
       shift # past value
       ;;
-    -P|--port)
-      _check_unset $2
+    -P | --port)
+      _check_unset "$2"
       cmd+=" -P $2"
       shift
       shift
       ;;
-    -b|--baseurl)
-      _check_unset $2
-      if [[ $2 == \/* ]]
-      then
+    -b | --baseurl)
+      _check_unset "$2"
+      if [[ "$2" == \/* ]]; then
         cmd+=" -b $2"
       else
         _help
@@ -122,16 +113,16 @@ do
       shift
       shift
       ;;
-    -t|--trace)
+    -t | --trace)
       cmd+=" -t"
       shift
       ;;
-    -r|--realtime)
-      _check_command fswatch 'http://emcrisostomo.github.io/fswatch/'
+    -r | --realtime)
+      _check_command fswatch "http://emcrisostomo.github.io/fswatch/"
       realtime=true
       shift
       ;;
-    -h|--help)
+    -h | --help)
       _help
       exit 0
       ;;
@@ -142,6 +133,5 @@ do
       ;;
   esac
 done
-
 
 main
