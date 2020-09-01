@@ -8,7 +8,7 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Alen's Devnotes'                          # the main title
+title: Alen's Devnotes                          # the main title
 
 tagline: Developer notes by Alen Alex.  # it will display as the sub-title
 
@@ -29,15 +29,15 @@ github:
   username: ajalex114             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: ajalex114            # change to your twitter username
 
 social:
   name: Alen Alex                  # it will shows as the copyright owner in Footer
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/ajalex114      # change to your twitter homepage
     - https://github.com/ajalex114       # change to your github homepage
+    - https://twitter.com/ajalex114      # change to your twitter homepage    
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
