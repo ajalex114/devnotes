@@ -42,7 +42,7 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+google_site_verification: PKVXT-hxgbd9mXX61h_OXrS0XIu6KprZLc4KlowQClU # change to your verification string
 
 #--------------------------
 
@@ -54,8 +54,9 @@ baseurl: ''
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Kolkata
 
+#  gtag('config', 'UA-177223659-1');
 google_analytics:
-  id: ''          # Fill with your Google Analytics ID
+  id: 'UA-177223659-1'          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
