@@ -4,7 +4,7 @@ categories: [dev]
 tags: [csharp]
 ---
 
-We discussed Tuples in the previous [post]({{ site.baseurl }}/posts/Tuples/). They give an easy to use interface, when we need only a subset of members from the class using a single function. But, what if we need to make it more implicit, without having to call a function. C#, now offers the `Deconstruct` function.  
+We discussed Tuples in the previous  <a href="{{ site.baseurl }}/posts/Tuples/">post</a>. They give an easy to use interface, when we need only a subset of members from the class using a single function. But, what if we need to make it more implicit, without having to call a function. C#, now offers the `Deconstruct` function.  
 
 ``` csharp
  public class Person 
