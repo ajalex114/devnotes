@@ -7,6 +7,7 @@
  */
 
 function copyLink(url) {
+  console.log("url copying: "+url);
   if (!url || 0 === url.length) {
     return;
   }
