@@ -10,12 +10,12 @@
 
 title: Alen's Devnotes                          # the main title
 
-tagline: Developer notes by Alen Alex.  # it will display as the sub-title
+tagline: Developer notes by Alen Alex. The content of the blog reflects my personal opinions and not that of my employer.
+# it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Software developer at Microsoft,
-  with a bit of music and photography in the blood.
-  The content of the blog reflects my personal opinions and not that of my employer.
+  I'm Alen Alex. Software developer at Microsoft.
+  This is Developer Notes by Alen Alex.  
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://dev.ajalex.com/'
