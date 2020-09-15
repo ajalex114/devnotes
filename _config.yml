@@ -33,14 +33,14 @@ twitter:
 
 social:
   name: Alen Alex                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  email: alen.alex@outlook.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/ajalex114       # change to your github homepage
     - https://twitter.com/ajalex114      # change to your twitter homepage    
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/alenjalex
+    - https://www.linkedin.com/in/alenalex
 
 google_site_verification: PKVXT-hxgbd9mXX61h_OXrS0XIu6KprZLc4KlowQClU # change to your verification string
 
