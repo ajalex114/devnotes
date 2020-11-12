@@ -18,14 +18,18 @@
   type: rss
   icon: 'fas fa-rss'
   noblank: true
+-
+  type: buymeacoffee
+  icon: 'fas fa-coffee'
+  noblank: true
 
 # Uncomment and complete the url below to enable more contact options
 # -
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your mastodon account page
-# -
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
-# -
-#   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage
+-
+   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+   url:  'https://www.linkedin.com/in/alenalex/'                  # Fill with your Linkedin homepage
+-
+   icon: 'fab fa-stack-overflow'
+   url:  'https://stackoverflow.com/users/9758633/alen-alex'                  # Fill with your stackoverflow homepage
