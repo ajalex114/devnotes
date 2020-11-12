@@ -18,10 +18,6 @@
   type: rss
   icon: 'fas fa-rss'
   noblank: true
--
-  type: buymeacoffee
-  icon: 'fas fa-coffee'
-  noblank: true
 
 # Uncomment and complete the url below to enable more contact options
 # -
@@ -33,3 +29,6 @@
 -
    icon: 'fab fa-stack-overflow'
    url:  'https://stackoverflow.com/users/9758633/alen-alex'                  # Fill with your stackoverflow homepage
+-
+   icon: 'fas fa-coffee'
+   url: 'https://www.buymeacoffee.com/ajalex'
