@@ -71,3 +71,11 @@ You can pin frequently used items to the taskbar by going to `Start Menu` and ri
 
 This works for other versions of Windows as well.  
 You can find more windows shortcuts at the Microsoft documentation [here](https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts).
+
+--------------------------
+
+<a align="left" href="https://www.buymeacoffee.com/ajalex" target="_blank">
+<img src="{{ "/assets/img/Logos/buymeacoffee-blue.png"  | relative_url }}" alt="Buy me a coffee" align="left" style="height: 60px !important;width: 217px !important;"/>
+</a>  
+
+--------------------------

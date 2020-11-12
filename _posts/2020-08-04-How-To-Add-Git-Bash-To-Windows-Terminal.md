@@ -50,3 +50,11 @@ Links to Download:
 
 * [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)  
 * [Git Bash](https://git-scm.com/downloads)
+
+--------------------------
+
+<a align="left" href="https://www.buymeacoffee.com/ajalex" target="_blank">
+<img src="{{ "/assets/img/Logos/buymeacoffee-blue.png"  | relative_url }}" alt="Buy me a coffee" align="left" style="height: 60px !important;width: 217px !important;"/>
+</a>  
+
+--------------------------

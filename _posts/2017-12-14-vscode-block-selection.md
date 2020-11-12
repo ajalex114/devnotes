@@ -18,3 +18,11 @@ This could be used iteratively, such that on using it, the current block is sele
 For example, if the cursor is inside the function parenthesis list, and you use the block selection key combination, it selects the current parameter. On using it again, it selects all the parameters (if there is more than one parameter). The next time, it selects the entire function. The next time, it selects the entire class.
 
 Hope you find this helpful.
+
+--------------------------
+
+<a align="left" href="https://www.buymeacoffee.com/ajalex" target="_blank">
+<img src="{{ "/assets/img/Logos/buymeacoffee-blue.png"  | relative_url }}" alt="Buy me a coffee" align="left" style="height: 60px !important;width: 217px !important;"/>
+</a>  
+
+--------------------------

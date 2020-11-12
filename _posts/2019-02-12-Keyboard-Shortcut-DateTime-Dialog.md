@@ -17,3 +17,11 @@ This will bring up the Date/Time dialog.
 
 This works for most versions of Windows.  
 You can find more windows shortcuts at the Microsoft documentation [here](https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts).
+
+--------------------------
+
+<a align="left" href="https://www.buymeacoffee.com/ajalex" target="_blank">
+<img src="{{ "/assets/img/Logos/buymeacoffee-blue.png"  | relative_url }}" alt="Buy me a coffee" align="left" style="height: 60px !important;width: 217px !important;"/>
+</a>  
+
+--------------------------

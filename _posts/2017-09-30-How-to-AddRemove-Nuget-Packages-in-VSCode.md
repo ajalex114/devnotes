@@ -74,3 +74,11 @@ This removes the log4net reference from the current project. This will reflect i
 ``` 
 
 > References : [Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-add-package)
+
+--------------------------
+
+<a align="left" href="https://www.buymeacoffee.com/ajalex" target="_blank">
+<img src="{{ "/assets/img/Logos/buymeacoffee-blue.png"  | relative_url }}" alt="Buy me a coffee" align="left" style="height: 60px !important;width: 217px !important;"/>
+</a>  
+
+--------------------------
