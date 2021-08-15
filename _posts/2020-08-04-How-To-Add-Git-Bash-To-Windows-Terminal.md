@@ -45,7 +45,6 @@ Now, you will be able to use Git Bash from Windows Terminal.
 <img src="{{ "/assets/img/WindowsTerminal2.jpg"  | relative_url }}" alt="Git Bash in Windows Terminal" align="middle"/>
 </p>
 
-
 Links to Download:  
 
 * [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)  

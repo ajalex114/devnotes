@@ -82,12 +82,3 @@ GitHub pages caches a lot of data on the browser by default. If you modify some 
 Of course, there is a lot more configurations required to bring up a complete blog, which you will figure out during the process of building the blog. I still have to map my custom domain, do the SEO stuff as of the time of writing this post.
 
 Happy Blogging...
-----------
-
---------------------------
-
-<a align="left" href="https://www.buymeacoffee.com/ajalex" target="_blank">
-<img src="{{ "/assets/img/Logos/buymeacoffee-blue.png"  | relative_url }}" alt="Buy me a coffee" align="left" style="height: 60px !important;width: 217px !important;"/>
-</a>  
-
---------------------------

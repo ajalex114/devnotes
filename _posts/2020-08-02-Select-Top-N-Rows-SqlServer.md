@@ -25,11 +25,3 @@ FETCH FIRST @count ROWS ONLY
 ```
 
 Hope this helped.
-
---------------------------
-
-<a align="left" href="https://www.buymeacoffee.com/ajalex" target="_blank">
-<img src="{{ "/assets/img/Logos/buymeacoffee-blue.png"  | relative_url }}" alt="Buy me a coffee" align="left" style="height: 60px !important;width: 217px !important;"/>
-</a>  
-
---------------------------
