@@ -39,7 +39,7 @@ If you want to pass a parameter, then use a lambda expression.
 
 I was quite happy with Blazor. It seemed very simple, but then it struck me. You cannot achieve everything with plain old `C#`.  
 You need `Javascript` for certain tasks. In my case, I wanted to add a button to copy the GUID to clipboard. I found it tricky to find it in `C#` which works in `Blazor`. Javascript seemed like the right way to go.  
-But that brought together another question. How do I execute Javascript functions? I was not able to add `<script>` tag in the same page. I did some digging and found that we can execute `Javascript` function from inside the `C#` code itself. Its fairly _simple_. I will try and write-up an article on how to achieve this separately.  
+But that brought together another question. How do I execute Javascript functions? I was not able to add `<script>` tag in the same page. I did some digging and found that we can execute `Javascript` function from inside the `C#` code itself. Its fairly _simple_. I have written a separate <a href="{{ site.baseurl }}/posts/Invoke-Javascript-In-Blazor/">article</a> on this.  
 
 Rest was simple, make the page look good. I got some help from my sister who is a frontend developer. We played around with `CSS` and got it right.  
 
