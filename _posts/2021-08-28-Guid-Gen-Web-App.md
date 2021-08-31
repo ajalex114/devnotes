@@ -86,7 +86,7 @@ Well except for the domain (which I don't think counts).
 
 I now have a web app up and running free of cost, managed by Azure. How cool is that!  
 
-And by the way, if you need to generate GUIDs, give [this](https://green-bush-00b4eb210.azurestaticapps.net/) a shot.
+And by the way, if you need to generate GUIDs, give [this](https://guid.ajalex.com/) a shot.
 
 ### Reference
 * [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
