@@ -93,3 +93,4 @@ And by the way, if you need to generate GUIDs, give [this](https://guid.ajalex.c
 * [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)  
 * [Getting started with Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/deploy-blazor#:~:text=%20Tutorial%3A%20Building%20a%20static%20web%20app%20with,is%20created%2C%20create%20a%20static%20web...%20More%20)  
 * [Source Code](https://github.com/ajalex114/guid-gen)
+* [GuidGen](https://guid.ajalex.com/)
