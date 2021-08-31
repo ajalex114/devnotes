@@ -1,7 +1,7 @@
 ---
 title:  "How to invoke Javascript function from within C# in Blazor" 
 categories: [dev]
-description: Web App using Blazor and Azure Static Web Apps
+description: "How to invoke Javascript function from within C# in Blazor"
 tags: [blazor, javascript, csharp]
 --- 
 
