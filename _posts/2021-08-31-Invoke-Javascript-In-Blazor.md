@@ -13,16 +13,38 @@ First of all, I was using `Blazor WebAssembly App`, and in my scenario using jav
 
 This is how your `razor` file would look like.
 
-{% gist c62d684bff4e4c31b67b860d94bda489 %}
+``` csharp
+@page "/"
+@inject IJSRuntime jsRuntime
+
+<div class="copy-div">
+    <i class="fa fa-copy copy-button" @onclick="()=>CopyItem("item")"></i>
+    <img class="arrow" src="./img/blue.png" />
+</div>
+
+</div>
+
+@code {
+    private void CopyItem(string item)
+    {
+        jsRuntime.InvokeAsync<String>("copyItem", item);
+    }
+}
+```
 
 Now, create the file `Something.js` (or, in this example CopyItem.js) in the `wwwroot` folder (in this example, it is `wwwroot\js`). Write the javascript function to this file.
 
-{%gist 01e4af7a2fd9c312eebee07f35f31c24 %}
+``` javascript
+function copyItem(item) {
+    console.log(item);
+    navigator.clipboard.writeText(item);
+}
+```
 
 Don't forget to add the script reference to `index.html` file.
 
 ``` html
-    <script src="./js/CopyItem.js"></script>
+<script src="./js/Something.js"></script>
 ```
 
 This should do the trick.
