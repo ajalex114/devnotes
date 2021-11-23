@@ -68,4 +68,4 @@ I have a few repos at Github, one of which is this blogpost. You could find them
 
 ----------------------------------
 
-You can also follow me at [facebook](https://www.facebook.com/alenjalex) (I'm not an active facebook user, by the way), [LinkedIn](https://www.linkedin.com/in/alenalex/) and [Twitter](twitter.com/ajalex114). You could also get to me through my [email](mailto:alen.alex@outlook.com)
+You can also follow me at [facebook](https://www.facebook.com/alenjalex) (I'm not an active facebook user, by the way), [LinkedIn](https://www.linkedin.com/in/alenalex/) and [Twitter](https://twitter.com/ajalex114). You could also get to me through my [email](mailto:alen.alex@outlook.com)

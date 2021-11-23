@@ -2,7 +2,7 @@
 title:  "GUID Generator Web App using Blazor and Azure Static Web Apps" 
 categories: [dev, webapp, blogging]
 description: Web App using Blazor and Azure Static Web Apps
-tags: [blazor, azure, .net, csharp, 'static site']
+tags: [blazor, azure, dotnet, csharp, 'static-site']
 --- 
 
 As a developer, I often come across the need to generate GUID to use at random places.  
