@@ -51,7 +51,13 @@ Keep doing this and you will slowly start getting better.
 Eventually you can get to the medium problems.  
 Its ok to skip the hard problems. They are too complicated, many a times its even difficult to understand solutions given on youtube.
 
-### 3. Other Platforms
+### 3. My Write-Up
+
+I also wrote down some Data Structure and Algorithms solutions as I was trying out Leetcode.  
+You can find it here: https://dsalgo.ajalex.com/  
+I hope this helps.
+
+### 4. Other Platforms
 I don't have an extensive list, but here is a few:  
 * [GeekForGeeks](https://www.geeksforgeeks.org/)
 * [HackerRank](https://www.hackerrank.com/)
