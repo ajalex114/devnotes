@@ -54,7 +54,7 @@ Its ok to skip the hard problems. They are too complicated, many a times its eve
 ### 3. My Write-Up
 
 I also wrote down some Data Structure and Algorithms solutions as I was trying out Leetcode.  
-You can find it here: https://dsalgo.ajalex.com/  
+You can find it here: [https://dsalgo.ajalex.com/](https://dsalgo.ajalex.com/)  
 I hope this helps.
 
 ### 4. Other Platforms
