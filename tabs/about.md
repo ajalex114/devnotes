@@ -14,6 +14,7 @@ I am **Alen Joseph Alex**. (I like to be called as _Alen_).
 <img src="{{ "/assets/img/ajalex_avatar.jpg"  | relative_url }}" alt="Alen Alex" align="middle"/>
 </p>
 
+You can find more about me on my home page at https://alenalex.com
 
 I am a fun loving, talkative, friendly person. I love technology, and how it empowers everyone. Crazy about gadgets. I am into Music, Photography and Cars.  
 I am currently working as a software developer at **Microsoft**.  
@@ -38,8 +39,17 @@ A short stint at _GlobalLogic_, having worked for _Ericsson_ on their cloud base
 
 ---------------------
 
-* **Microosft** : _(July 16 2018 - Present)_  
-I am part of _Supply Chain Engineering_ which is part of _Core Service Engineering_ at _Microsoft_. I am working on _.Net Core_ based applications, (obviously).
+* **Microosft** : _(July 16 2018 - January 14 2022)_  
+I am part of _Supply Chain Engineering_ which is part of _Core Service Engineering_ at _Microsoft_. I am working on _.Net Core_ based applications, (obviously).  
+As part of this org, I have put my signature in the manufacturing process of Microsoft hardwares which includes Surface, XBox, Hololens and other Microsoft accessories.  
+Every Microsoft hardware you use or see around has gone through more than one process where I have contributed to it.  
+How cool is that!
+
+-------
+
+* **Google** : _(January 17 2022 - present)_
+At Google, I am part of Google Cloud Platform or GCP in short. I am contributing to the infrastructure side of GCP. You probably won't get to see the work that I do as a GCP feature, but you probably will not be able to enjoy using GCP without what we do here. ;)  
+Oh yes, I also switched the language. I use Golang and python for the work I do here. In particular Golang is growing on me.
 
 ---------------------
 
@@ -59,7 +69,7 @@ I am part of a _Gospel Band_ named _[Deo Gratias](https://www.facebook.com/DeoGr
 * **Photography**  
 I've liked _photography_ ever since I was at school, although I didn't have a _camera_ back then. I would get my friends' camera and take pics anytime I got a chance. I was the man behind the _camera_ for many of the short films that we did while at college.  
 I now have a _Canon EOS 700 D_ to play around with.  
-I have uploaded a few of my pics here at [500px](https://500px.com/alenalex114) or [instagram](https://www.instagram.com/alenalex114/).
+I have uploaded a few of my pics here at [500px](https://500px.com/alenalex114) or [instagram](https://www.instagram.com/alenalex114/) and my personal photography blog at https://alenspics.webflow.io/.
 
 ---------------------------------
 
