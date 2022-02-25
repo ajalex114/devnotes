@@ -17,7 +17,7 @@ I am **Alen Joseph Alex**. (I like to be called as _Alen_).
 You can find more about me on my home page at https://alenalex.com
 
 I am a fun loving, talkative, friendly person. I love technology, and how it empowers everyone. Crazy about gadgets. I am into Music, Photography and Cars.  
-I am currently working as a software developer at **Microsoft**.  
+I am currently working as a Software Engineer at **Google**.  
 
 A brief look at my career.  
 I have worked at various companies since _2011_, and been having a lot of fun ;).
