@@ -9,7 +9,7 @@ Go or Golang is a strongly typed language. So, basically the compiler needs to k
 
 There are 3 ways of declaring a variable.
 
-1. 
+1.
 
 ``` go
 	var i int
@@ -20,7 +20,7 @@ The default value of the variable would be `0`.
 
 ----
 
-2. 
+2.
 
 ``` go
     var s = "Hello World"
@@ -31,7 +31,7 @@ Although it is not mentioned that the data type is string, the compiler implies 
 
 ---
 
-3. 
+3.
 
 ``` go
     s := "Hello World"
@@ -43,7 +43,7 @@ This method uses the operator `:=` instead of `=`.
 
 ---
 
-4. 
+4.
 
 ``` go
     var a, b, c int
@@ -61,7 +61,7 @@ func Foo(a, b, c string) {
 
 ---
 
-5. 
+5.
 
 ``` go
 	var (
