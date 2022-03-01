@@ -183,9 +183,9 @@ func main() {
 [Click to try out the above code](https://go.dev/play/p/hmdf20GiKdu)
 
 ## References
-
-- https://medium.com/@simplyianm/why-gos-structs-are-superior-to-class-based-inheritance-b661ba897c67
-- https://www.geeksforgeeks.org/golang-polymorphism-using-interfaces/
-- https://www.geeksforgeeks.org/embedding-interfaces-in-golang/
-- https://go.dev/doc/effective_go#interfaces
-- https://go.dev/doc/effective_go#embedding
+- [Inheritance in GoLang - GeeksForGeeks](https://www.geeksforgeeks.org/inheritance-in-golang/)
+- [Embedding Interfaces in Golang - GeeksForGeeks](https://www.geeksforgeeks.org/embedding-interfaces-in-golang/)
+- [Why Go’s structs are superior to class-based inheritance - Medium](https://medium.com/@simplyianm/why-gos-structs-are-superior-to-class-based-inheritance-b661ba897c67)
+- [Golang | Polymorphism Using Interfaces - Medium](https://www.geeksforgeeks.org/golang-polymorphism-using-interfaces/)
+- [Interfaces - Effective Go](https://go.dev/doc/effective_go#interfaces)
+- [Embedding - Effective Go](https://go.dev/doc/effective_go#embedding)
