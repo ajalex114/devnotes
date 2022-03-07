@@ -186,6 +186,6 @@ func main() {
 - [Inheritance in GoLang - GeeksForGeeks](https://www.geeksforgeeks.org/inheritance-in-golang/)
 - [Embedding Interfaces in Golang - GeeksForGeeks](https://www.geeksforgeeks.org/embedding-interfaces-in-golang/)
 - [Why Go’s structs are superior to class-based inheritance - Medium](https://medium.com/@simplyianm/why-gos-structs-are-superior-to-class-based-inheritance-b661ba897c67)
-- [Golang | Polymorphism Using Interfaces - Medium](https://www.geeksforgeeks.org/golang-polymorphism-using-interfaces/)
+- [Golang Polymorphism Using Interfaces - GeekForGeeks](https://www.geeksforgeeks.org/golang-polymorphism-using-interfaces/)
 - [Interfaces - Effective Go](https://go.dev/doc/effective_go#interfaces)
 - [Embedding - Effective Go](https://go.dev/doc/effective_go#embedding)
