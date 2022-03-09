@@ -12,8 +12,7 @@ So, one could argue that _Golang does not have inheritance_
 Inheritance can be achieved in Golang in 3 ways.  
 
 1. Implied inheritance using interfaces with Polymorphism
-2. Inheritance by Composition
-3. Inheritance Embedding
+2. Inheritance Embedding
 
 ## Implied inheritance using interfaces with Polymorphism
 
@@ -71,57 +70,6 @@ func main() {
 ```
 
 [Click to try out the above code](https://go.dev/play/p/YiE2iqmjszT)
-
-## Inheritance by Composition
-
-If you search for inheritance using Golang online, you will come across this method of inheritance by composition.   
-I frankly do not consider this as inheritance at all.  
-This is just composition.  
-
-You include a type (struct or interface) as a field in struct.  
-Then why include this here? _Just because I see this as a popular method mentioned online_
-
-_How does it work?_
-
-``` go
-package main
-
-import "fmt"
-
-type human struct {
-	Name string
-}
-
-type person struct {
-	human human
-	age   int
-}
-
-func (p *person) GetSpecies() string {
-	return "human"
-}
-
-func (h *human) GetLivingBeing() string {
-	return "human being"
-}
-
-func main() {
-	alen := person{
-		human: human{
-			Name: "Alen",
-		},
-		age: 10,
-	}
-
-	fmt.Println(alen.human.Name)
-	fmt.Println(alen.age)
-	fmt.Println(alen.GetSpecies())
-	fmt.Println(alen.human.GetLivingBeing())
-}
-
-```
-
-[Click to try out the above code](https://go.dev/play/p/__s_AH5YIHA)
 
 ## Inheritance by Embedding
 
