@@ -17,7 +17,7 @@ I am **Alen Joseph Alex**. (I like to be called as _Alen_).
 You can find more about me on my home page at https://alenalex.com
 
 I am a fun loving, talkative, friendly person. I love technology, and how it empowers everyone. Crazy about gadgets. I am into Music, Photography and Cars.  
-I am currently working as a Software Engineer at **Google**.  
+I am currently working as a Senior Software Engineer at **Microsoft**.  
 
 A brief look at my career.  
 I have worked at various companies since _2011_, and been having a lot of fun ;).
@@ -40,16 +40,27 @@ A short stint at _GlobalLogic_, having worked for _Ericsson_ on their cloud base
 ---------------------
 
 * **Microosft** : _(July 16 2018 - January 14 2022)_  
-I am part of _Supply Chain Engineering_ which is part of _Core Service Engineering_ at _Microsoft_. I am working on _.Net Core_ based applications, (obviously).  
+I was part of _Supply Chain Engineering_ at Microsoft. I was working on _.Net Core_ based applications, (obviously).  
 As part of this org, I have put my signature in the manufacturing process of Microsoft hardwares which includes Surface, XBox, Hololens and other Microsoft accessories.  
 Every Microsoft hardware you use or see around has gone through more than one process where I have contributed to it.  
+If you have a Surface device with you, the serial number on it is most probably my contribution.  
 How cool is that!
 
 -------
 
-* **Google** : _(January 17 2022 - present)_
-At Google, I am part of Google Cloud Platform or GCP in short. I am contributing to the infrastructure side of GCP. You probably won't get to see the work that I do as a GCP feature, but you probably will not be able to enjoy using GCP without what we do here. ;)  
-Oh yes, I also switched the language. I use Golang and python for the work I do here. In particular Golang is growing on me.
+* **Google** : _(January 17 2022 - April 15 2024)_  
+At Google, I am part of Google Cloud Platform or GCP in short. I  contributed to the infrastructure side of GCP. You probably won't get to see the work that I do as a GCP feature, but you probably will not be able to enjoy using GCP without what we do here. ;)  
+_So, what did I do here?_  
+In simple language, any time Google Cloud comes with a new region or expands an existing region, I was part of it.  
+There will be some team which procures the servers, another team that installs it in the data centers, another that installs the basic services on it.  
+I have the requirements from different products/teams within Google Cloud on what kind of machines they need or what is the amount of CPU or RAM that they need. I would now go look at the machines available, sort them out for each teams as per their need. Assign it to them. That's it.  
+
+---------------------
+
+* **Microsoft** : _(May 27 2024 - Present)_  
+With the happy feeling of being back at Microsoft, I joined a different team this time. This time around, I'm part of the Engineering Systems team at Microsoft.  
+I'm working on powershell, yaml and pipelines with the Azure Linux team. The work I do makes the Azure experience more seamless and efficient.
+If you've heard of Azure Boost, my work enables the implementation underneath it.
 
 ---------------------
 
